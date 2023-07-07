@@ -1,2 +1,2 @@
 # estudo-pessoal
-repositorio criado para prática em js 
+REPOSITÓRIO PARA PRÁTICA DE JS.
