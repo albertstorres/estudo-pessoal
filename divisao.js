@@ -8,4 +8,3 @@ if (divisor != 0) {
 } else {
     console.log("OPERAÇÃO INVÁLIDA!");
 }
-
